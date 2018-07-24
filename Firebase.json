@@ -1,0 +1,30 @@
+{
+  "Thermostats" : {
+    "**put you id here**" : {
+      "Historical" : {
+        "Boiler" : false,
+        "Temp" : 0
+      },
+      "Params" : {
+        "EXT" : {
+          "Hum" : 93,
+          "Temp" : 6.65
+        },
+        "INT" : {
+          "Hum" : 18,
+          "Temp" : 20.5
+        }
+      },
+      "UserOptions" : {
+        "Boiler" : false,
+        "From" : 5,
+        "SI" : true,
+        "SetTemp" : 21.5,
+        "To" : 23,
+        "automan" : true
+      }
+    }
+  },
+  "users" : {
+  }
+}
