@@ -54,7 +54,7 @@ Email[] = {
 ```
 
 ### Building and component
-If you want build this you can watch my wire diagram [here](https://easyeda.com/Cali/Termosato-413504ecb0794767a228c4bd0ad1143b)
+If you want build this you can watch my wire diagram [here](https://easyeda.com/Cali/thermostat)
 
 
 ## Built With
