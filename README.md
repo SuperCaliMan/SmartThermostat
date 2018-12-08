@@ -1,7 +1,7 @@
 # Smart-Thermostat
 
 
-Smart-Thermostat is a simple way to control temperature and humidity in your house from your smartphone, you can thermostats by app <!--[app](linkapp)-->
+Smart-Thermostat is a simple way to control temperature and humidity in your house from your smartphone, you can control thermostats by app <!--[app](linkapp)-->
 
 <img src="images/photo.png" width=80% height=80%>
 
