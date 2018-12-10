@@ -20,7 +20,7 @@ Thermostat funtions:
 
 ## Getting Started
 
-Clone the repository, create firebase account and create a database with this parameters. You can also check out my example server [example server.](https://gitlab.com/SuperCaliMan/SmartThermostat/blob/master/Firebase.json)<br>
+Clone the repository, create firebase account and create a database with this parameters. You can also check out my example server [example server.](https://github.com/SuperCaliMan/SmartThermostat/blob/master/Firebase.json)<br>
 <img src="images/database.png" width=30% height=30%>
 <br>Now you can set FIREBASE_HOST and FIREBASE_AUTH. You can find your database secret key in firebase, in this project i used this key to connect my board with firebase, for more details look [here.](https://stackoverflow.com/questions/37418372/firebase-where-is-my-account-secret-in-the-new-console)
 Now register in [OpenWeatherMap](https://openweathermap.org) to get weather data and set your key on Weather setup and set Weather Setup parameters. I use [Firebase-Arduino](https://github.com/firebase/firebase-arduino) API to dialog with nodemcu and firebase. I used this library to send email
