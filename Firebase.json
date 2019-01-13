@@ -1,6 +1,6 @@
 {
   "Thermostats" : {
-    "**put you id here**" : {
+    "**put your id here**" : {
       "Historical" : {
         "Boiler" : false,
         "Temp" : 0
