@@ -173,7 +173,7 @@ Deicing:
    reading=readData();
    tin=reading[0];
    hin=(int)reading[1];
-   tin=18.5;
+   
   
    if(tin<5){
      antiIce("Deicing On",flagemail);
